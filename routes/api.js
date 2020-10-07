@@ -1,9 +1,9 @@
-const express = require("express");
-const router  = express.Router();
+var express = require('express');
+var router = express.Router();
 
-router.post("/",function(req,res,next){
-    res.send("123");
-  
+/* GET users listing. */
+router.post('/', function(req, res, next) {
+  res.send('respond with a resource');
 });
 
-module.exports= router;
+module.exports = router;
