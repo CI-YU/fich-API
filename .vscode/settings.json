@@ -1,0 +1,11 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  // "editor.renderWhitespace": "boundary",
+  // "editor.renderIndentGuides": true,
+  "editor.minimap.enabled": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss05', 'ss06'"
+}
